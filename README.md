@@ -1,7 +1,7 @@
 # 2024 OS Homeworks
 
-- 第一個小題目為使用cooperative Scheduling方法的一個Producer與一個Comsumer
-- 第二個小題目為使用timer preemptive with Blocking Scheduling方法的一個Producer與一個Comsumer
-- 第三個小題目為使用timer preemptive with Semaphore Scheduling方法的一個Producer與一個Comsumer
-- 第四個小題目為使用timer preemptive with Semaphore Scheduling方法的兩個Producer與一個Comsumer並保證Balanced
+- 第一個小題目為使用cooperative Scheduling方法的一個Producer與一個Comsumer。
+- 第二個小題目為使用timer preemptive with Blocking Scheduling方法的一個Producer與一個Comsumer。
+- 第三個小題目為使用timer preemptive with Semaphore Scheduling方法的一個Producer與一個Comsumer。
+- 第四個小題目為使用timer preemptive with Semaphore Scheduling方法的兩個Producer與一個Comsumer並保證Balanced。
 - 第五個小題目為使用timer preemptive with Semaphore Scheduling方法的兩個Producer與一個Comsumer並搭配8051 Peripheral devices的輸入輸出。
